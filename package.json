@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-2",
+  "version": "1.0.0",
+  "description": "Trabajo 0525",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emiliano",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
