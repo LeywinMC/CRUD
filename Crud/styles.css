@@ -1,0 +1,97 @@
+.container {
+    width: 1310px;
+    height: fit-content;
+    padding-left: 3%;
+    margin-left: 0px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(224, 229, 233);
+    background-size: 100% 100%;
+
+}
+.row {
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: start;
+    justify-content: space-around;
+}
+.table {
+    width: 1200px;
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+#popA{
+    /* width: 31%; */
+    width: 200PX;
+    text-align: left;
+    border-style: solid;
+    border-color: azure;
+
+    border-left: 0ch;
+    border-right: 0ch;
+}
+#popB{
+    /* width: 31%; */
+    width: 600PX;
+    text-align: center;
+    border-style: solid;
+    border-color: azure;
+
+    border-left: 0ch;
+    border-right: 0ch;
+}
+#pop{
+    /* width: 31%; */
+    width: 400PX;
+    text-align: center;
+    border-style: solid;
+    border-color: azure;
+
+    border-left: 0ch;
+    border-right: 0ch;
+}
+#pops{
+    width: 28%;
+    text-align: left;
+    border-style: solid;
+    border-color: azure;
+
+    border-left: 0ch;
+    border-right: 0ch;
+
+}
+#popS{
+    width: 28%;
+    text-align: left;
+    border-style: solid;
+    border-color: azure;
+
+    border-left: 0ch;
+    border-right: 0ch;
+
+}
+#popc{
+    /* 32 */
+    width: 30%;
+    text-align: left;
+    border-style: solid;
+    border-color: azure;
+
+    border-left: 0ch;
+    border-right: 0ch;
+}
+.btn-danger{
+    width: 100PX;
+}
+.btn-primary{
+    width: 100px;
+}
+.btn{
+    border-radius: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue
+}
